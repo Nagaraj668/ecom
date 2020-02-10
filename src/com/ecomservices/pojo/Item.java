@@ -27,7 +27,6 @@ public class Item {
 
 	public Item() {
 		super();
-		// TODO Auto-generated constructor stub
 	}
 
 	public Item(String name, String description, String shortDescription) {
